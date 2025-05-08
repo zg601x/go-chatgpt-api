@@ -2,7 +2,7 @@
 
 <details>
 
-<summary>这个项目已经死了，请让它安息吧</summary>
+这个项目已经死了，请让它安息吧
 
 ## 一个尝试绕过 `Cloudflare` 来使用 `ChatGPT` 接口的程序
 
